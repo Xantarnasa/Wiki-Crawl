@@ -1,3 +1,4 @@
+#Code made with the help of https://huggingface.co/chat/ for the crawler base
 import urllib.request
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
